@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nice96z
-- 👀 I’m interested in developing Applications and Games with the basic knowledge that I have.
+- 👀 I’m interested in developing Applications,Websites and Games with the basic knowledge that I have.
 - 🌱 I’m currently learning on ways to make my ideas a reality.
 - 💞️ I’m looking to collaborate on any projects ideas that I come up with while still being able to keep my ideas a secret till developed.
 - 📫 How to reach me on Discord-nice96z_32467_49018, Instagram-Nice96z
