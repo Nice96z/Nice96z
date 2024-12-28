@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @Nice96z
-- 👀 I’m interested in developing Applications,Websites and Games with the basic knowledge that I have.
-- 🌱 I’m currently learning on ways to make my ideas a reality.
-- 💞️ I’m looking to collaborate on any projects ideas that I come up with while still being able to keep my ideas a secret till developed.
-- 📫 How to reach me on Discord-nice96z_32467_49018, Instagram-Nice96z
-- 😄 Pronouns: male
-- ⚡ Fun fact: I like playing Games, Drawing and Dancing.On my Free time I like writing Poetry and writing my thoughts for new ideas I wish I could develop but I dont have the knowledge to start.
+# Hello, I'm Nice96z! 👋
 
-<!---
-Nice96z/Nice96z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [Your Interests/Technologies]. Here's a bit more about me:
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on: [Current Project or Technology]
+- 🌱 I’m currently learning: [New Technology or Skill]
+- 👯 I’m looking to collaborate on: [Types of Projects or Technologies]
+- 🤔 I’m looking for help with: [Any Specific Help Needed]
+- 💬 Ask me about: [Your Expertise or Interests]
+- 📫 How to reach me: [Your Contact Information]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [A Fun Fact About You]
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+## 📈 GitHub Stats
+
+![Nice96z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nice96z&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:youremail@example.com)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 🚀
