@@ -1,40 +1,104 @@
 # Hello, I'm Nice96z! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [Your Interests/Technologies]. Here's a bit more about me:
+Welcome to my GitHub profile! I'm excited to share my journey in tech and collaborate with like-minded individuals. 🎉
 
-## 🚀 About Me
+## 📖 About Me
 
-- 🔭 I’m currently working on: [Current Project or Technology]
-- 🌱 I’m currently learning: [New Technology or Skill]
-- 👯 I’m looking to collaborate on: [Types of Projects or Technologies]
-- 🤔 I’m looking for help with: [Any Specific Help Needed]
-- 💬 Ask me about: [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
-## 📈 GitHub Stats
-
-![Nice96z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nice96z&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:youremail@example.com)
+- **Personal Mission:** 🌟 To innovate and create meaningful technological solutions that make a difference in people's lives.
+- **Current Focus:** 🔭 Exploring and turning my ideas into innovative projects.
+- **Creative Mindset:** 🌱 I may not know where my ideas come from—be it from a dream or somewhere else—but my creativity drives me to conceptualize concepts that don’t exist yet. I believe in the power of technology to transform those ideas into reality.
+- **AI Enthusiast:** 🎨 I have a keen interest in artificial intelligence, utilizing AI tools to refine my concepts and gain insights as I navigate my projects.
+- **Self Muse Studio:** 💼 I am currently in the process of creating a website for my own company called **Self Muse Studio**.
+- **Poetry Book:** 📚 I am writing a poetry book that I hope will soon be published. 
+- **Collaboration:** 👯 I’m open to collaborating with others who share similar interests and can help bring my creative ideas to life.
+- **Contact Info:** 📫 Feel free to reach out to me on [Discord](https://discord.com/users/nice96z_32467_49018) or [Instagram](https://instagram.com/Nice96z).
+- **Pronouns:** 😄 He/Him
+- **Hobbies:** ⚡ I love gaming, drawing, dancing, and writing poetry during my free time. Exploring and documenting my creative ideas is my passion.
+- **A Note to Readers:** 🕰️ Please be patient with me as my mind is running through all these ideas while I’m trying to balance studying and working. Your understanding means a lot!
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch. Let's build something amazing together! 🚀
+## 🛠️ My Learning Journey
+
+### 📚 Learning Resources
+- I’m currently utilizing [W3Schools](https://www.w3schools.com/) to learn web development, covering HTML, CSS, JavaScript, and more.
+
+### 📚 Technologies I'm Learning
+- **C#** 🎮: For game development.
+- **HTML** 🌐: Learning the structure of web pages.
+- **CSS** 🎨: Learning to style web pages.
+- **JavaScript** ⚙️: For interactive web functionality.
+- **Machine Learning** 🤖: Exploring AI applications.
+- **C++** 💻: For system programming.
+- **Assembly Language** 🛠️: Diving deep into low-level programming concepts.
+
+### 🎯 Goals
+- Mastering **Full Stack Development**.
+- Deepening my expertise in **Machine Learning** and **AI**.
+- Building **real-world applications** that challenge and expand my knowledge.
+
+---
+
+## 📈 My Skills
+
+| Skill                             | Level      |
+|-----------------------------------|------------|
+| Python                            | Beginner   |
+| Java                              | Beginner   |
+| JavaScript                        | Beginner   |
+| C#                                | Beginner   |
+| C++                               | Beginner   |
+| HTML                              | Beginner   |
+| CSS                               | Beginner   |
+| SQL                               | Beginner   |
+| Machine Learning Fundamentals      | Beginner   |
+| Data Analysis                     | Beginner   |
+| Neural Networks                   | Beginner   |
+| TensorFlow                        | Beginner   |
+| Scikit-Learn                      | Beginner   |
+| Natural Language Processing (NLP) | Beginner   |
+
+---
+
+## 🌟 Featured Projects
+
+* [**Game Development**](https://github.com/Nice96z/GameDevelopment): A 2D game developed using C# and Unity.
+* [**Web Development**](https://github.com/Nice96z/WebDevelopment): A responsive website built with HTML, CSS, and JavaScript.
+* [**AI Project**](https://github.com/Nice96z/AiProject): An exploration project that leverages machine learning to create user-friendly applications.
+* **Self Muse Studio Website**: 🌐 Developing a website for my company, Self Muse Studio.
+
+---
+
+## 💻 Open Source Contributions
+
+I've contributed to various open-source projects, enhancing my skills and collaborating with the community. Check them out!
+
+## 🏅 Badges
+
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-orange)
+![CodeWars Badge](https://img.shields.io/badge/Code--Wars-Profile-yellow)
+
+- [HackerRank Profile](https://www.hackerrank.com/nice96z)
+- [CodeWars Profile](https://www.codewars.com/users/nice96z)
+
+---
+
+## 📄 Blog
+
+I occasionally share my thoughts and projects on my blog. Check it out here: [My Personal Blog](https://nice96z.github.io/blog/).
+
+---
+
+## 🤔 Fun Fact
+
+Did you know? I once wrote a short story that combines all my hobbies—gaming, AI, and poetry! It’s a unique mix reflecting my creative process and passion for storytelling.
+
+---
+
+## 📲 Get in Touch
+
+Let's connect! Whether you have a project idea, want to collaborate, or just want to chat, feel free to reach out through Discord or Instagram. I'm here for it!
+
+---
+
+Thank you for stopping by my profile! I invite you to explore my repositories and connect with me. Let's think outside the box together and create something extraordinary! 🚀
