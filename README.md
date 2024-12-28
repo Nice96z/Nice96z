@@ -64,15 +64,15 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 ## 🌟 Featured Projects
 
 1. **Game Development**:
-   - **Repository Name**: [Game Development](https://github.com/Nice96z/GameDevelopment)
+   - **Repository Name**: (Under Development):
    - **Description**: A 2D game developed using C# and Unity, demonstrating skills in game design and programming, including character design and level development.
 
 2. **Web Development**:
-   - **Repository Name**: [Web Development](https://github.com/Nice96z/WebDevelopment)
+   - **Repository Name**: (Under Development):
    - **Description**: A responsive website built with HTML, CSS, and JavaScript, showcasing front-end development skills. This may serve as a portfolio or a company site.
 
 3. **AI Project**:
-   - **Repository Name**: [AI Project](https://github.com/Nice96z/AiProject)
+   - **Repository Name**: (Under Development):
    - **Description**: An exploration project leveraging machine learning to create user-friendly applications, involving data analysis and predictive modeling.
 
 4. **Self Muse Studio Website** (Under Development):
