@@ -92,7 +92,7 @@ I am currently exploring opportunities to contribute to open-source projects and
 ![CodeWars Badge](https://img.shields.io/badge/Code--Wars-Profile-yellow)
 
 - [HackerRank Profile](https://www.hackerrank.com/nice96z)
-- [CodeWars Profile](https://www.codewars.com/users/nice96z)
+- [CodeWars Profile](https://www.codewars.com/users/Nice96z)
 
 ---
 
