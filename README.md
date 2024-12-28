@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 - **Creative Mindset:** 🌱 I may not know where my ideas come from—be it from a dream or somewhere else—but my creativity drives me to conceptualize concepts that don’t exist yet. I believe in the power of technology to transform those ideas into reality.
 - **AI Enthusiast:** 🎨 I have a keen interest in artificial intelligence, utilizing AI tools to refine my concepts and gain insights as I navigate my projects.
 - **Self Muse Studio:** 💼 I am currently in the process of creating a website for my own company called **Self Muse Studio**.
-- **Poetry Book:** 📚 I am writing a poetry book that I hope will soon be published. 
+- **Poetry Book:** 📚 I am writing a poetry book that I hope will soon be published.
 - **Collaboration:** 👯 I’m open to collaborating with others who share similar interests and can help bring my creative ideas to life.
 - **Contact Info:** 📫 Feel free to reach out to me on [Discord](https://discord.com/users/nice96z_32467_49018) or [Instagram](https://instagram.com/Nice96z).
 - **Pronouns:** 😄 He/Him
@@ -57,21 +57,34 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 | TensorFlow                        | Beginner   |
 | Scikit-Learn                      | Beginner   |
 | Natural Language Processing (NLP) | Beginner   |
+| Assembly Language                 | Beginner   |
 
 ---
 
 ## 🌟 Featured Projects
 
-* [**Game Development**](https://github.com/Nice96z/GameDevelopment): A 2D game developed using C# and Unity.
-* [**Web Development**](https://github.com/Nice96z/WebDevelopment): A responsive website built with HTML, CSS, and JavaScript.
-* [**AI Project**](https://github.com/Nice96z/AiProject): An exploration project that leverages machine learning to create user-friendly applications.
-* **Self Muse Studio Website**: 🌐 Developing a website for my company, Self Muse Studio.
+1. **Game Development**:
+   - **Repository Name**: [Game Development](https://github.com/Nice96z/GameDevelopment)
+   - **Description**: A 2D game developed using C# and Unity, demonstrating skills in game design and programming, including character design and level development.
+
+2. **Web Development**:
+   - **Repository Name**: [Web Development](https://github.com/Nice96z/WebDevelopment)
+   - **Description**: A responsive website built with HTML, CSS, and JavaScript, showcasing front-end development skills. This may serve as a portfolio or a company site.
+
+3. **AI Project**:
+   - **Repository Name**: [AI Project](https://github.com/Nice96z/AiProject)
+   - **Description**: An exploration project leveraging machine learning to create user-friendly applications, involving data analysis and predictive modeling.
+
+4. **Self Muse Studio Website** (Under Development):
+   - **Description**: Developing a website for my own company, **Self Muse Studio**. This project involves both front-end and back-end development.
 
 ---
 
 ## 💻 Open Source Contributions
 
-I've contributed to various open-source projects, enhancing my skills and collaborating with the community. Check them out!
+I am currently exploring opportunities to contribute to open-source projects and am eager to apply my skills while learning from the community. Stay tuned for updates as I embark on this journey!
+
+---
 
 ## 🏅 Badges
 
@@ -91,7 +104,7 @@ I occasionally share my thoughts and projects on my blog. Check it out here: [My
 
 ## 🤔 Fun Fact
 
-Did you know? I once wrote a short story that combines all my hobbies—gaming, AI, and poetry! It’s a unique mix reflecting my creative process and passion for storytelling.
+Did you know? I’m a 28-year-old innovator hailing from South Africa, brimming with a library of creative ideas just waiting to come to life. Having recently completed my poetry book, I’m eagerly anticipating the perfect moment to share it with the world. I pride myself on being an out-of-the-box thinker, a versatile jack-of-all-trades, and a puzzle enthusiast who thrives on envisioning new concepts. My journey is fueled by curiosity and imagination, and I can't wait to see where my ideas will lead me!
 
 ---
 
