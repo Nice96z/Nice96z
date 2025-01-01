@@ -86,16 +86,6 @@ I am currently exploring opportunities to contribute to open-source projects and
 
 ---
 
-## 🏅 Badges
-
-![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-orange)
-![CodeWars Badge](https://img.shields.io/badge/Code--Wars-Profile-yellow)
-
-- [HackerRank Profile](https://www.hackerrank.com/nice96z)
-- [CodeWars Profile](https://www.codewars.com/users/Nice96z)
-
----
-
 ## 📄 Blog
 
 I occasionally share my thoughts and projects on my blog. Check it out here: [My Personal Blog](https://nice96z.github.io/blog/).
