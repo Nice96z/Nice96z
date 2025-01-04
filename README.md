@@ -1,3 +1,5 @@
+---
+
 # Hello, I'm Nice96z! 👋
 
 Welcome to my GitHub profile! I'm excited to share my journey in tech and collaborate with like-minded individuals. 🎉
@@ -8,6 +10,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 - **Current Focus:** 🔭 Exploring and turning my ideas into innovative projects.
 - **Creative Mindset:** 🌱 I may not know where my ideas come from—be it from a dream or somewhere else—but my creativity drives me to conceptualize concepts that don’t exist yet. I believe in the power of technology to transform those ideas into reality.
 - **AI Enthusiast:** 🎨 I have a keen interest in artificial intelligence, utilizing AI tools to refine my concepts and gain insights as I navigate my projects.
+- **Blockchain Explorer:** 🔗 I am delving into the world of cryptocurrency and NFT minting, fascinated by the potential of blockchain technology to transform creativity and commerce.
 - **Self Muse Studio:** 💼 I am currently in the process of creating a website for my own company called **Self Muse Studio**.
 - **Poetry Book:** 📚 I am writing a poetry book that I hope will soon be published.
 - **Collaboration:** 👯 I’m open to collaborating with others who share similar interests and can help bring my creative ideas to life.
@@ -22,6 +25,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 
 ### 📚 Learning Resources
 - I’m currently utilizing [W3Schools](https://www.w3schools.com/) to learn web development, covering HTML, CSS, JavaScript, and more.
+- I also use online platforms like [Codecademy](https://www.codecademy.com/) and [Coursera](https://www.coursera.org/) to enhance my knowledge in cryptocurrency and NFTs.
 
 ### 📚 Technologies I'm Learning
 - **C#** 🎮: For game development.
@@ -31,10 +35,13 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 - **Machine Learning** 🤖: Exploring AI applications.
 - **C++** 💻: For system programming.
 - **Assembly Language** 🛠️: Diving deep into low-level programming concepts.
+- **Cryptocurrency** 💰: Understanding blockchain principles, cryptocurrency technologies, and how they work.
+- **NFT Minting** 🎨: Learning how to create, mint, and manage NFTs, exploring decentralized platforms, and their integration with artistic endeavors.
 
 ### 🎯 Goals
 - Mastering **Full Stack Development**.
 - Deepening my expertise in **Machine Learning** and **AI**.
+- Exploring **Blockchain Technology** and NFT creation.
 - Building **real-world applications** that challenge and expand my knowledge.
 
 ---
@@ -58,6 +65,8 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 | Scikit-Learn                      | Beginner   |
 | Natural Language Processing (NLP) | Beginner   |
 | Assembly Language                 | Beginner   |
+| Cryptocurrency Concepts           | Beginner   |
+| NFT Minting                      | Beginner   |
 
 ---
 
@@ -78,11 +87,15 @@ Welcome to my GitHub profile! I'm excited to share my journey in tech and collab
 4. **Self Muse Studio Website** (Under Development):
    - **Description**: Developing a website for my own company, **Self Muse Studio**. This project involves both front-end and back-end development.
 
+5. **NFT Minting Project** (Under Development):
+   - **Repository Name**: (Under Development):
+   - **Description**: A project to create and mint NFTs on a blockchain platform, exploring the intersection of art and technology.
+
 ---
 
 ## 💻 Open Source Contributions
 
-I am currently exploring opportunities to contribute to open-source projects and am eager to apply my skills while learning from the community. Stay tuned for updates as I embark on this journey!
+I am currently exploring opportunities to contribute to open-source projects, especially in blockchain and NFT spaces, and am eager to apply my skills while learning from the community. Stay tuned for updates as I embark on this journey!
 
 ---
 
@@ -105,3 +118,5 @@ Let's connect! Whether you have a project idea, want to collaborate, or just wan
 ---
 
 Thank you for stopping by my profile! I invite you to explore my repositories and connect with me. Let's think outside the box together and create something extraordinary! 🚀
+
+--- 
